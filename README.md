@@ -12,7 +12,7 @@ Finally a window is shown asking if an image should be saved at every step. This
 <br/>
 The output will be a text file of instructions for whatever device, with each step on a new line, and comma seperated: <br/>
 x-movement,y-movement<br/>
-where a positive value for x means move to the right, and a positive value for y means move down (negative means left and up respectively)<br/>
+where a positive value for x means move to the right, and a positive value for y means move down (negative means left and up respectively)
 # Final remarks
 We never got around to actually making the etch-a-sketch-robot, nevertheless I learned a lot coding this up. <br/>
 If anyone out there wants to turn this into an etch-a-sketch feel free to use this code, and please show me the result! <br/>
