@@ -11,7 +11,7 @@ In the next window (or after you have entered your search query for Google) a pr
 Finally a window is shown asking if an image should be saved at every step. This will generate a new folder in the directory of your image (or the directory you chose to store the image in the case of a Google search) called 'Steps', and it will save ech step as a separate image.<br/>
 <br/>
 The output will be a text file of instructions for whatever device, with each step on a new line, and comma seperated: <br/>
-```x-movement,y-movement<br/>```
+`x-movement,y-movement`
 where a positive value for x means move to the right, and a positive value for y means move down (negative means left and up respectively).<br/>
 
 # Final remarks
