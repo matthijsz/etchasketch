@@ -5,7 +5,7 @@ This turned out to be harder then we initially thought, how do you go from an im
 Below is my solution. It uses a couple different search algorithms (A* and breadth-first search, depending on how far it has to travel). <br/>
 # What it does
 Running main.py will open a tkinter window where two options are available:<br/>
-1. 'Get image from Google': This will require a Google Image Search API key to be placed in 'GoogleDeveloperKey.txt'
+1. 'Get image from Google': This will require a Google Image Search API key to be placed in 'GoogleDeveloperKey.txt', and a Search engine ID to be placed in GoogleSearchEngineID.txt
 2. 'Use an existing file': Open an image from your local storage
 In the next window (or after you have entered your search query for Google) a preview of the monochrome image is presented (after all, an etch-a-sketch can only draw one color). Here the brightness cut-off for black pixels can be adjusted.<br/>
 Finally a window is shown asking if an image should be saved at every step. This will generate a new folder in the directory of your image (or the directory you chose to store the image in the case of a Google search) called 'Steps', and it will save ech step as a separate image.<br/>
