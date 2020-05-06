@@ -6,7 +6,7 @@ Below is my solution. It uses a couple different search algorithms (A* and bread
 # What it does
 Running main.py will open a tkinter window where two options are available:<br/>
 1. 'Get image from Google': This will require a Google Image Search API key to be placed in 'GoogleDeveloperKey.txt', and a Search engine ID to be placed in GoogleSearchEngineID.txt
-2. 'Use an existing file': Open an image from your local storage
+2. 'Use an existing file': Open an image from your local storage<a/>
 In the next window (or after you have entered your search query for Google) a preview of the monochrome image is presented (after all, an etch-a-sketch can only draw one color). Here the brightness cut-off for black pixels can be adjusted.<br/>
 Finally a window is shown asking if an image should be saved at every step. This will generate a new folder in the directory of your image (or the directory you chose to store the image in the case of a Google search) called 'Steps', and it will save ech step as a separate image.<br/>
 <br/>
@@ -18,5 +18,5 @@ We never got around to actually making the etch-a-sketch-robot, nevertheless I l
 If anyone out there wants to turn this into an etch-a-sketch feel free to use this code, and please show me the result! <br/>
 
 # Output
-Here is an example of the output
+Here is a sample of how this script would draw an image <br/>
 ![](output.gif)
