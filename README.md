@@ -16,3 +16,7 @@ where a positive value for x means move to the right, and a positive value for y
 # Final remarks
 We never got around to actually making the etch-a-sketch-robot, nevertheless I learned a lot coding this up. <br/>
 If anyone out there wants to turn this into an etch-a-sketch feel free to use this code, and please show me the result! <br/>
+
+# Output
+Here is an example of the output
+![](output.gif)
